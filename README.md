@@ -6,7 +6,7 @@
 </table>
 
 
-# Welcome to my profile 🐝
+# Welcome 🐝
 Hello, I'm Lardapide! I'm interested mainly in formal methods for natural language. My projects involve Lambek Calculus, Montague Grammar and language-data for NLP.
 
 lisanju.contato@gmail.com
