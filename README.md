@@ -8,7 +8,7 @@ Uso a linguagem Agda para implementar computacionalmente, em um sistema de prova
 Caso queira entrar em contato, é só enviar um e-mail!
 elisalardapide@gmail.com
 
-# Projetos em desenvolvimento 💡
-- Teste de Montague em Agda;
-- Papéis argumentais em Scala;
-- Lambda Integrated System.
+# Projetos atuais 💡
+- Teste de Montague para sentenças do PB
+- Papéis argumentais em Scala
+- GEOki Jiten
