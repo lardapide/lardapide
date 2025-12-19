@@ -1,12 +1,5 @@
-<table>
-  <tr>
-    <td><a href="readmepb.md">Português Brasileiro</a></td>
-    <td><a href="readmejp.md">日本語</a></td>
-  </tr>
-</table>
+# Boas vindas 🐝
+Olá, eu me chamo Lardapide! Tenho interesse em métodos e sistemas formais para linguagem natural, especialmente em nível semântico. Meus projetos envolvem Cálculo Lambek, Gramática de Montague e dados linguísticos para PLN.
 
-
-# Welcome 🐝
-Hello, I'm Lardapide! I'm interested mainly in formal methods for natural language. My projects involve Lambek Calculus, Montague Grammar and language-data for NLP.
-
+Caso queira entrar em contato, é só enviar um e-mail!
 lisanju.contato@gmail.com
