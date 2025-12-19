@@ -1,13 +1,13 @@
-# Boas vindas 🐝
+# Welcome 🐝
 ![banner](banner.png)
 
-Sou bacharela em Linguística e atualmente faço mestrado em Descrição, Análise e Processamento de Línguas Naturais. Semântica é minha área principal de atuação e meu trabalho consiste no desenvolvimento de formalizações lógicas que capturem o significado de expressões em língua natural.
+I hold a bachelor's degree in Linguistics and am currently pursuing a master's degree in Description, Analysis, and Processing of Natural Languages. Semantics is my main area of ​​expertise, and my work involves developing logical formalizations that capture the meaning of expressions in natural languages.
 
-Uso a linguagem Agda para implementar computacionalmente, em um sistema de provas, as formalizações que desenvolvo durante meu trabalho. Meus projetos envolvem Cálculo Lambda, Gramáticas de Tipo Lógico e recursos para PLN.
+I use the Agda language to computationally implement, in a proof system, the formalizations I develop during my work. My projects involve Lambda Calculus, Type-Logical Grammars, and resources for NLP.
 
-Caso queira entrar em contato, é só enviar um e-mail!
+If you would like to contact me, please send an email!
 elisalardapide@gmail.com
 
-# Projetos atuais 💡
-- Teste de Montague para sentenças do PB
+# Projects 💡
+- Montague Test
 - GEOki Jiten
