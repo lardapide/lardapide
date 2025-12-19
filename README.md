@@ -1,4 +1,4 @@
-# Welcome 🐝
+# Welcome
 ![banner](banner.png)
 
 I have a bachelor's degree in Linguistics and am currently pursuing a master's degree in Description, Analysis, and Processing of Natural Languages. My main focus is Semantics and my work involves developing logical formalizations to capture how meaning works in natural languages.
@@ -7,6 +7,6 @@ I use the Agda programming language to implement these formalizations in a proof
 
 Feel free to reach out! You can email me at elisalardapide@gmail.com
 
-# Projects 💡
+# Projects
 - Montague Test
 - GEOki Jiten
