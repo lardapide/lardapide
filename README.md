@@ -1,5 +1,5 @@
 # Boas vindas 🐝
-Olá, eu me chamo <a href="https://lardapide.github.io/" target="_blank" style="text-decoration: none;">Elisa Lardapide</a>!
+Olá, eu me chamo <a href="https://lardapide.github.io/" target="_blank" style="text-decoration: none">Elisa Lardapide</a>!
 
 Sou bacharela em Linguística e atualmente faço mestrado em Descrição, Análise e Processamento de Línguas Naturais. Semântica é minha área principal de atuação e meu trabalho consiste no desenvolvimento de formalizações lógico-matemáticas que capturem o significado de expressões em língua natural. Atualmente pesquiso expressões que carregam o significado de não possuir companhia, como as expressões 'sozinho', 'sem' e 'por si só' do português brasileiro.
 
