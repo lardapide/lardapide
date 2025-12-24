@@ -8,5 +8,5 @@ I use the Agda programming language to implement these formalizations in a proof
 Feel free to reach out! You can email me at elisalardapide@gmail.com
 
 # Projects
-- Montague Test
+- Semantic System
 - GEOki Jiten
