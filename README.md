@@ -7,7 +7,7 @@ I hold a bachelor's degree in Linguistics and am currently pursuing a master's d
 
 I use the Agda programming language to implement these formalizations in a proof assistant, which helps me verify their correctness. My projects often involve Lambda Calculus, Type-Logical Grammars, and building resources for NLP.
 
-Feel free to reach out! You can email me at elisalardapide@gmail.com
+Feel free to reach out! You can email me at elisalardapide (at) gmail (dot) com
 
 # Projects
 - Semantic System
