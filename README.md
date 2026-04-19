@@ -1,7 +1,7 @@
 # Welcome
 ![banner](banner.png)
 
-Hello, I'm Lardapide! 
+Hello, I'm Elisa Lardapide! 
 
 I hold a bachelor's degree in Linguistics and am currently pursuing a master's degree in Description, Analysis, and Processing of Natural Languages. My main focus is Semantics, and my research involves developing logical formalizations to capture how meaning works in natural languages.
 
